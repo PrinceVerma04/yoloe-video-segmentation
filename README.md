@@ -1,6 +1,16 @@
 # YOLOE Open-Vocabulary Video Segmentation
 <img width="1932" height="504" alt="snapshot_00338" src="https://github.com/user-attachments/assets/463b5aa1-5b79-425b-85c9-b8093cf17a85" />
 
+
+
+https://github.com/user-attachments/assets/31eab4e5-e468-49ee-a9dc-1017e80daf8c
+
+
+
+
+
+
+
 Instance segmentation on video with [Ultralytics YOLOE](https://docs.ultralytics.com/models/yoloe/), using three different ways of telling the model what to look for:
 
 | Mode | Model | How the target class is defined |

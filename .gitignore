@@ -1,0 +1,23 @@
+# Virtual environment
+yolo/
+venv/
+.venv/
+
+# Model weights (downloaded automatically by Ultralytics)
+*.pt
+*.ts
+
+# Input videos and inference outputs
+video folder/
+runs/
+*.mp4
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

@@ -22,7 +22,7 @@ Instance segmentation on video with [Ultralytics YOLOE](https://docs.ultralytics
 The active example finds a **deer** in a video by using a box around the deer in `referance/deer.jpg`, and labels the detections with a custom class name.
 
 ---
-[YOLOE LinkedIn carousel.pdf](https://github.com/user-attachments/files/35275892/YOLOE.LinkedIn.carousel.pdf)
+[YOLOE-understanding.pdf](https://github.com/user-attachments/files/35275892/YOLOE.LinkedIn.carousel.pdf)
 
 ## Project structure
 

@@ -1,4 +1,5 @@
 # YOLOE Open-Vocabulary Video Segmentation
+<img width="1932" height="504" alt="snapshot_00338" src="https://github.com/user-attachments/assets/463b5aa1-5b79-425b-85c9-b8093cf17a85" />
 
 Instance segmentation on video with [Ultralytics YOLOE](https://docs.ultralytics.com/models/yoloe/), using three different ways of telling the model what to look for:
 
@@ -13,6 +14,7 @@ The active example finds a **deer** in a video by using a box around the deer in
 ---
 
 ## Project structure
+
 
 ```
 YOLOE/
